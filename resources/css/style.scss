@@ -1,0 +1,30 @@
+@import './forms';
+
+body{
+
+    background-color: bisque;
+    color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: cornsilk;
+    nav{
+        a{
+        color:rgb(5, 81, 84);
+        text-decoration: none;
+        
+            
+        }
+    }
+}
+
+a{
+    color:rgb(5, 81, 84);
+}

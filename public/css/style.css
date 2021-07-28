@@ -1,0 +1,39 @@
+.form-group {
+  margin-bottom: 1em;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+.form-group #number {
+  width: 30px;
+}
+
+.reviews p {
+  color: #a59898;
+}
+
+body {
+  background-color: bisque;
+  color: cadetblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  background-color: cornsilk;
+}
+header nav a {
+  color: #055154;
+  text-decoration: none;
+}
+
+a {
+  color: #055154;
+}
+
+/*# sourceMappingURL=style.css.map*/
